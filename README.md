@@ -10,7 +10,6 @@ and was unsure how to get it to run by simply starting an HTML file in a browser
 The snowflake program was tested on Google Chrome.
 
 
-![](image1.JPG)
 <img src="image1.jpg" alt="image1" width="200"/>
 ![](image2.JPG)
 ![](image3.JPG)
