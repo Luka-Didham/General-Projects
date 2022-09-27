@@ -1,7 +1,7 @@
 # Etude 3 Koch snowflake
 ### @Author Luka Didham
 
-This program draws a Fractal Koch Snowflake which dynamically scales with the window and
+This program draws a fractal Koch Snowflake which dynamically scales with the window and
 can be controlled with a slider paired with an iteration counter.
 Sketch.js is the main P5 file which triggers the drawing and interactions
 with the user. As P5 is a javaScript language the program can be launched form the
@@ -11,6 +11,7 @@ The snowflake program was tested on Google Chrome.
 
 
 ![](image1.JPG)
+<img src="image1.jpg" alt="image1" width="200"/>
 ![](image2.JPG)
 ![](image3.JPG)
 ![](image4.JPG)
