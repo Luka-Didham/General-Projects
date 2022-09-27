@@ -1,20 +1,18 @@
 # Etude 3 Koch snowflake
-### @Author Luka Didham
+#### @Author Luka Didham
 
 This program draws a fractal Koch Snowflake which dynamically scales with the window and
 can be controlled with a slider paired with an iteration counter.
 Sketch.js is the main P5 file which triggers the drawing and interactions
 with the user. As P5 is a javaScript language the program can be launched form the
-index.html file however unfortunatly needs to be launched on a live local server
-and was unsure how to get it to run by simply starting an HTML file in a browser.
-The snowflake program was tested on Google Chrome.
+index.html file however unfortunatly needs to be launched on a live local server.
 
 ![](image1.JPG)![](image2.JPG)
 ![](image3.JPG)![](image4.JPG)
 
 
 ### How to run
-As said above we cannot simply start the HTML file unfortunatly. P5 seems to require the HTML file to be booted on a lcoal server. I developed the program with the VS Code Live Server and tested the program with the Web Server for Chrome extension.
+As said above we cannot simply start the HTML file unfortunatly. P5 requires the HTML file to be booted on a lcoal server. I developed the program with the VS Code Live Server and tested the program with the Web Server for Chrome extension.
 
 ### Web Server for Chrome extension
 https://github.com/processing/p5.js/wiki/Local-server
