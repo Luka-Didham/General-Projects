@@ -9,11 +9,8 @@ index.html file however unfortunatly needs to be launched on a live local server
 and was unsure how to get it to run by simply starting an HTML file in a browser.
 The snowflake program was tested on Google Chrome.
 
-
-<img src="image1.jpg" alt="image1" width="200"/>
-![](image2.JPG)
-![](image3.JPG)
-![](image4.JPG)
+![](image1.JPG)![](image2.JPG)
+![](image3.JPG)![](image4.JPG)
 
 
 ### How to run
